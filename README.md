@@ -1,5 +1,16 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navid-shakibayi&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+# Who am i ?
+Driven by a passion for technology and web development, I'm an entry-level front-end developer seeking to contribute to exciting projects.
+
+ - **Languages**
+	 - 🇮🇷 Persian	(native)
+	 - 🇫🇷 French		(fluent)
+	 - 🇺🇸 English	(proficient)
+
+## Skils
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,jquery,react,git,github,wordpress,figma,linux)](https://skillicons.dev)
+
+## Contact me
+[![instagram button](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/navid.shakibayi) [![gmail button](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naweed.sh1474@gmail.com)
 
 
 <!--
